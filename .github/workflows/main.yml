@@ -16,4 +16,4 @@ jobs:
       with:
         python-version: '3.10'
     - name: Aja testit
-      run: helloworld/test_laskin.py
+      run: python helloworld/test_laskin.py
