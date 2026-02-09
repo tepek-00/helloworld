@@ -1,2 +1,2 @@
 def plus(a, b):
-    return a + b *5
+    return a + b
